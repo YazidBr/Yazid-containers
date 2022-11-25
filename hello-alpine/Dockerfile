@@ -1,6 +1,6 @@
 FROM Alpine:3.15.0
 LABEL version "1.0.0" 
-MAINTAINER="Yazid Brakni"
+maintainer="Yazid Brakni"
 os="unbuntu"
 ENV Container_user="Yazid Brakni"
 RUN adduser --disabled-password Yazid_Brakni
