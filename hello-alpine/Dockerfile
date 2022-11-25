@@ -1,6 +1,6 @@
 FROM Alpine:3.15.0
 LABEL version "1.0.0"
-maintainer="Yazid Brakni"
+MAAINTAINER="Yazid Brakni"
 os="ubuntu"
 distro="stro"
 ENV Container_user="Yazid_Brakni"
